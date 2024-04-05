@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "type": "black",
+      "value": 0.875
+    },
+    {
+      "type": "grey",
+      "value": 6.75
+    },
+    {
+      "type": "grey",
+      "value": 2.875
+    },
+    {
+      "type": "mustard",
+      "value": 5.875
+    },
+    {
+      "type": "navy-blue",
+      "value": 40.875
+    },
+    {
+      "type": "olive-green",
+      "value": 0.875
+    },
+    {
+      "type": "teal",
+      "value": 0.875
+    },
+    {
+      "type": "black",
+      "value": 0.875
+    },
+    {
+      "type": "grey",
+      "value": 6.75
+    },
+    {
+      "type": "grey",
+      "value": 2.875
+    },
+    {
+      "type": "mustard",
+      "value": 5.875
+    },
+    {
+      "type": "navy-blue",
+      "value": 40.875
+    },
+    {
+      "type": "olive-green",
+      "value": 0.875
+    },
+    {
+      "type": "teal",
+      "value": 0.875
+    }
+  ]
+}
